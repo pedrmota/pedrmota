@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Pedro Mota  😁
 
  <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/[seu-usuario-github]?v=4" width="150px;" alt="Foto de Perfil do Pedro Mota"/><br>
+  
   <h1>Olá! Sou o Pedro Mota 👋</h1>
   <p>Bem-vindo(a) ao meu espaço no GitHub!</p>
 </div>
