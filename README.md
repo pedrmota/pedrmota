@@ -7,7 +7,7 @@
 </div>
 ### 🚀 Sobre Mim
 
-Sou o **Pedro Mota**, um entusiasta do desenvolvimento web apaixonado por transformar ideias em realidade no mundo digital. Atualmente, estou em uma jornada intensa de aprendizado e aprimoramento em **HTML e CSS** para construir interfaces web incríveis, e mergulhando fundo no universo **Front-end ** para criar aplicações robustas e completas.
+Sou o **Pedro Mota**, um entusiasta do desenvolvimento web apaixonado por transformar ideias em realidade no mundo digital. Atualmente, estou em uma jornada intensa de aprendizado e aprimoramento em **HTML e CSS** para construir interfaces web incríveis, e mergulhando fundo no universo **Front-end** para criar aplicações robustas e completas.
 
 Minha paixão por tecnologia me impulsiona a explorar novas ferramentas e conceitos, sempre buscando as melhores práticas para desenvolver soluções eficientes e com uma ótima experiência de usuário.
 
