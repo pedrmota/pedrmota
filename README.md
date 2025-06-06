@@ -5,7 +5,7 @@
   <h1>Olá! Sou o Pedro Mota 👋</h1>
   <p>Bem-vindo(a) ao meu espaço no GitHub!</p>
 </div>
-### 🚀 Sobre Mim
+🚀 Sobre Mim...
 
 Sou o **Pedro Mota**, um entusiasta do desenvolvimento web apaixonado por transformar ideias em realidade no mundo digital. Atualmente, estou em uma jornada intensa de aprendizado e aprimoramento em **HTML e CSS** para construir interfaces web incríveis, e mergulhando fundo no universo **Front-end** para criar aplicações robustas e completas.
 
